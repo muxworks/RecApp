@@ -12,9 +12,9 @@ Extra credits go to the creators of the NPM modules used herein.
 
 |Name|Role|Contribution ratio|
 |:---|:---|:---|
-|🇺🇸 [Jeff Delaney](https://fireship.io/contributors/jeff-delaney/)|Boilerplate inspiration|🏅🏅🏅|
-|🇧🇩️ [Dewan Mukto](https://github.com/dmimukto)|Developer, graphic designer, marketing lead|🏅|
-
+|🇺🇸 [Jeff Delaney](https://fireship.io/contributors/jeff-delaney/)|Boilerplate inspiration|🏅🏅🏅🏅|
+|🇧🇩️ [Dewan Mukto](https://github.com/dmimukto)|Developer, graphic designer, marketing lead|🏅🏅🏅|
+|🇮🇳️ [Prashant Gupta](https://stackoverflow.com/questions/57997796/create-a-css-pulse-effect-from-border-outwards)|Rippling button CSS|🏅|
 
 ## Features
 - ✔️ [🎥 Recording] **Screen capture**
@@ -23,6 +23,7 @@ Extra credits go to the creators of the NPM modules used herein.
 - ✔️ [💾 Formats] **Save to file as '.webm'**
 - 🚧 [💾 Formats] **Custom file formats**
 - 🚧 [🎥 Recording] **Select framerate**
+- 🚧 [🎥 Recording] **Select resolution**
 - 🚧 [🎨 UI/UX] **Better UI**
 - 🚧 [❓Custom] **Suggest a feature!**
 
