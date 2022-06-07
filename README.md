@@ -1,6 +1,6 @@
 # RecApp
 Aiming to build the simplest and fastest screen recorder.
-<br />
+<br /><br />
 ![](https://media.discordapp.net/attachments/817313984264536114/983725449815420988/RecApp_logo_1.png?width=466&height=466)
 
 ### Technologies used
