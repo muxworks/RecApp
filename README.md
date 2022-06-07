@@ -7,7 +7,7 @@ Aiming to build the simplest and fastest screen recorder.
 Electron.js, Node.js, NPM
 
 ## Credits
-Based on [Fireship's tutorial](https://www.youtube.com/watch?v=3yqDxhR2XxE).
+Based on [Fireship's tutorial](https://www.youtube.com/watch?v=3yqDxhR2XxE) and the repository [here](https://github.com/fireship-io/223-electron-screen-recorder).
 Extra credits go to the creators of the NPM modules used herein.
 
 |Name|Role|Contribution ratio|
