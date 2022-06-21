@@ -5,7 +5,7 @@ Aiming to build the simplest and fastest screen recorder.
 
 <html><style src="https://quixtack.dewanmukto.repl.co/style.css" />
 <div class="item-card item-container">
-  <button class="pri-btn">DOWNLOAD (EARLY ACCESS)</button>
+  <a href="https://mux.com.co/recapp/download"><button class="pri-btn">DOWNLOAD (EARLY ACCESS)</button></a>
 </div></html>
 
 ### Technologies used
